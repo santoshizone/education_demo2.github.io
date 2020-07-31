@@ -1,0 +1,588 @@
+*{
+	
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+
+body{
+	overflow-x: hidden;
+
+}
+
+						/*--header--*/
+
+header{
+	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/pic1.jpg) no-repeat fixed;
+	position: relative;
+	background-size: cover;
+	height: 700px;
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+}
+
+
+.box1{
+	padding-top: 30px;
+	
+	font-size: 20px;
+	
+	text-align: right;
+	padding-right: 100px;
+	color: white;
+
+}
+
+						/*--navbar--*/
+
+
+
+
+
+
+#demo ul li a{
+	color: white;
+	font-size: 17px;
+	
+	text-align: center;
+}
+
+#demo ul li{
+	padding-left:20px;
+}
+
+#demo ul{
+	float: right;
+	margin-right:100px;
+}
+
+
+
+
+
+
+
+
+#demo1{
+	
+	margin-top: 60px;
+	padding-left: 200px;
+}
+
+
+						/*--carousel--*/
+
+
+.carou_h1{
+	font-size:60px;
+	color: white;
+}
+.carou_h2{
+	font-size:40px;
+	color: white;
+
+}
+.carou_p1{
+font-size:15px;
+	color: white;}
+
+	#demo1 .carousel-indicators{
+		margin-top: 200px;
+	}
+
+	.btn1{
+		background-color: blue;
+		color: white;
+		width: 150px;
+		height: 40px;
+	}
+
+	form{
+		border: 4px solid white;
+		width: 400px;
+		height: auto;
+		color:black;
+		background-color: white;
+		
+		margin-top: -50px;
+		margin-left: 200px;
+	
+	}
+
+	.row2{
+		position: absolute;
+		top:70%;
+		left:40%;
+		transform: translate(-50%, -50%);
+		width: 100%;
+	}
+
+					/*--section2--*/
+
+	.sec2_h2{
+		padding-top: 100px;
+		padding-left: 80px;
+	}
+
+
+.sec2_row {
+	display: flex;
+	margin-top: 30px;
+	
+}
+.sec2_row .div1{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin-left: 90px;
+}
+.sec2_row .div2{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin-left: 10px;
+}
+.sec2_row .div3{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	margin-left: 10px;
+}
+.sec2_row .div4{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	
+}
+
+
+
+
+.text{
+	position: absolute;
+	top: 80%;
+	left: 60%;
+	transform:translate(-50%, -50%);
+	color: white;
+
+}
+
+.row_p1{
+	padding-left: 100px;
+	font-size: 17px;
+	line-height: 1.5;
+}
+.row_p2{
+	padding-right: 100px;
+	font-size: 17px;
+	line-height: 1.5;
+}
+								/*--section3--*/
+
+
+
+.sec3_row{
+	display: flex;
+	z-index: 1;
+	margin-top: -320px;
+	padding-left: 200px;
+
+}
+
+.sec3_div1{
+	
+	border: 2px solid blue;
+	width: 300px;
+	height: 150px;
+	margin: auto;
+	position: relative;
+	padding: 10px;
+	background-color: white;
+	
+
+}
+
+.sec3_h6{
+	font-size: 20px;
+}
+
+.sec3_row2{
+	display: flex;
+	z-index: 1;
+	padding-left: 200px;
+}
+
+.sec3_h2{
+	font-size: 40px;
+	padding-left: 100px;
+}
+
+
+								/*--section4--*/
+
+.sec4_row{
+	display: flex;
+}
+
+.sec4_div1{
+	width: 250px;
+	height: 250px;
+	border: 1px solid white;
+	margin: auto;
+}
+
+.sec4_h1{
+	padding-top: 100px;
+	padding-left: 60px;
+	color: white;
+}
+
+.section4{
+	background-color: #007bff;
+}
+
+
+						/*--section5--*/
+
+.section5{
+	padding-top: 50px;
+
+}
+
+.card{
+	margin-left: 20px;
+
+}
+
+.card-body{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+
+.card1{
+	margin-left: 100px;
+	width: 350px;
+}
+
+.card2{
+	margin-left: 40px;
+	width: 350px;
+}
+
+.card3{
+	margin-left: -20px;
+	width: 350px;
+}
+
+.sec5_h1{
+	padding-left: 90px;
+}
+
+								/*--section6--*/
+
+
+.section6{
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../images/bg2.jpg) no-repeat ;
+	height: 500px;
+	background-size: cover;
+	position: relative;
+}
+
+
+
+.sec6_row{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+	width: 100%;
+}
+
+.sec6_col1{
+	color: white;
+	
+	
+}
+
+
+.sec6_p1{
+	line-height: 1.5;
+}
+
+.sec6_col2{
+	color: white;
+	padding-top: 100px;
+	
+	
+}
+
+
+								/*--section7--*/
+
+.sec7_row{
+	display: flex;
+	
+}
+
+.sec7_div1{
+	width: 250px;
+	height: 300px;
+	margin: auto;
+}
+
+.section7{
+	padding-top: 60px;
+
+}
+
+.sec7_h1{
+	padding-left: 70px;
+}
+
+
+						/*--section8--*/
+
+.sec8_col1{
+	background-color: blue;
+	color: white;
+}
+
+.sec8_h1{
+	padding-left: 100px;
+	margin-top: -60px;
+}
+
+
+.icon1{
+	margin-top:50px; 
+}
+
+.sec8_col2{
+	background: #dc3545;
+}
+
+.sec8_div1{
+	margin-top: 50px;
+	width: 450px;
+	background: black;
+}
+
+.sec8_div1 input{
+
+	width: 400px;
+	height: 50px;
+
+}
+
+.sec8_p1{
+	color: white;
+}
+
+
+								/*--footer--*/
+
+.footer{
+
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../images/bg3.jpg) center center no-repeat ;
+	height: 400px;
+	background-size: cover;
+	position: relative;
+
+
+}
+
+.foot_row{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+	width: 100%;
+}
+.foot_p1{
+	color: white;
+}
+
+.icon_box{
+	color: white;
+}
+
+.foot_div{
+	position: absolute;
+	top: 170%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: black;
+	width: 100%;
+	height: 60px;
+
+}
+
+.foot_row2{
+	width: 100%;
+}
+
+.foot_div ul{
+	list-style-type: none;
+	padding-left: 100px;
+	padding-top: 10px;
+}
+.foot_div ul li{
+	float: left;
+	color: white;
+	margin: 10px;
+}
+
+.col2_p{
+	color: white;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #myBtn2 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color:black; /* Set a background color */
+  color: blue; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn2:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+
+
+
+								/*--media screen--*/
+
+
+	@media screen and (max-width:800px){
+		header {
+			height: 1400px;
+		}
+		#demo1{
+			margin-top: -360px;
+		}
+		form{
+			margin-left:50px;
+			margin-top: 100px;
+			width: 100%;
+
+		}
+
+		.card1{
+			margin-left: 30px;
+			width: 85%;
+			margin-top: 5px;
+
+		}
+
+		.card2{
+			width: 85%;
+			margin-top: 5px;
+		}
+
+		.card3{
+			margin-left: 30px;
+			width: 85%;
+			margin-top: 5px;
+		}
+
+		.section6{
+			height: 1000px;
+		}
+		.sec6_col1{
+			margin-top: 80px;
+		}
+
+		.foot_div{
+			margin-top: -70px;
+		}
+
+		.div2 img{
+			margin-left: 80px;
+		}
+
+		.footer{
+			height: 600px;
+		}
+
+		.col2_p{
+			font-size: 12px;
+		}
+
+		.foot_div{
+			height: 104px;
+		}
+
+		.div3 img{
+			margin-left: 80px;
+	
+
+		}
+
+
+		.foot_p1{
+			margin-left: 35px;
+		}
+
+		.image_div{
+			margin-left: 100px;
+		}
+
+		.row_p2{
+			margin-left: 80px;
+		}
+		.sec3_div1{
+			width: 148px;
+			height: 221px;
+		}
+
+		.sec8_div1{
+			width: 340px;
+		}
+
+		.sec8_div1 input{
+			width: 245px;
+		}
+		
+#demo1 .carousel-inner{
+			width: 211%;
+			margin-left: -120px;
+			
+			
+		}
+		.btn1{
+			margin-left: 60px;
+		}
+
+		.div4 img{
+			margin-left: 80px;
+		}
+	}
